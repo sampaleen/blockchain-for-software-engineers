@@ -70,8 +70,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [x] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [x] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [x] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
-- [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
-- [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [x] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
+- [x] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
 - [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
